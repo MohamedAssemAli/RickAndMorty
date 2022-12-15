@@ -16,7 +16,8 @@ class EpisodeRepositoryImpl @Inject constructor(
     private val db: AppDB
 ) : EpisodeRepository {
 
-    @ExperimentalPagingApi
+    //    @ExperimentalPagingApi
+    @OptIn(ExperimentalPagingApi::class)
     override fun getAllEpisodes(): Flow<PagingData<Episode>> = Pager(
         config = PagingConfig(pageSize = 20, prefetchDistance = 2),
         remoteMediator = EpisodeRemoteMediator(service, db)

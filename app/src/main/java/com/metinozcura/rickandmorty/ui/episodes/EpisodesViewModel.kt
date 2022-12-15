@@ -7,9 +7,12 @@ import androidx.paging.cachedIn
 import com.metinozcura.rickandmorty.base.BaseViewModel
 import com.metinozcura.rickandmorty.data.model.Episode
 import com.metinozcura.rickandmorty.data.repository.episode.EpisodeRepository
+import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.Flow
+import javax.inject.Inject
 
-class EpisodesViewModel @ViewModelInject constructor(
+@HiltViewModel
+class EpisodesViewModel @Inject constructor(
     private val episodeRepository: EpisodeRepository
 )  : BaseViewModel() {
     private lateinit var _episodesFlow: Flow<PagingData<Episode>>

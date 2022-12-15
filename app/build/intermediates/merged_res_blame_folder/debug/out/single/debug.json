@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/anim_slide_in_left.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/drawable_ic_tv_white_18dp.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/drawable/ic_tv_white_18dp.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/navigation_graph_episodes.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/navigation/graph_episodes.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/drawable_ic_people_white_18dp.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/drawable/ic_people_white_18dp.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_fragment_episodes.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/fragment_episodes.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/anim_slide_out_left.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/navigation_graph_characters.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/navigation/graph_characters.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/menu_menu_bottom_nav.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/menu/menu_bottom_nav.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_item_separator_location.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_separator_location.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/anim_slide_in_right.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_item_location.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_location.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_fragment_character_detail.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/fragment_character_detail.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_item_character.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_character.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/drawable_ic_location_white_18dp.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/drawable/ic_location_white_18dp.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_item_network_state.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_network_state.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_view_base_progress.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/view_base_progress.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_item_episode.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_episode.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/drawable_ic_arrow_right_18dp.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/drawable/ic_arrow_right_18dp.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/anim_slide_out_right.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/navigation_graph_locations.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/navigation/graph_locations.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/drawable_ic_arrow_right_white_36dp.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/drawable/ic_arrow_right_white_36dp.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_fragment_characters.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/fragment_characters.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/drawable_ic_status_circle.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/drawable/ic_status_circle.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-merged_res-34:/layout_fragment_locations.xml.flat",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/fragment_locations.xml"
+    }
+]

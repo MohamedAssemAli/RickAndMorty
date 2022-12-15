@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/item_character.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_character.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/item_network_state.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_network_state.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/item_episode.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_episode.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/fragment_character_detail.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/fragment_character_detail.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/item_location.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_location.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/fragment_locations.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/fragment_locations.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/fragment_episodes.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/fragment_episodes.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/item_separator_location.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/item_separator_location.xml"
+    },
+    {
+        "merged": "com.metinozcura.rickandmorty.app-mergeDebugResources-33:/layout/fragment_characters.xml",
+        "source": "com.metinozcura.rickandmorty.app-main-36:/layout/fragment_characters.xml"
+    }
+]

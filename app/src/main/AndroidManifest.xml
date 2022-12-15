@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RickAndMorty">
 
-        <activity android:name="com.metinozcura.rickandmorty.ui.main.MainActivity">
+        <activity android:name="com.metinozcura.rickandmorty.ui.main.MainActivityTemp">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

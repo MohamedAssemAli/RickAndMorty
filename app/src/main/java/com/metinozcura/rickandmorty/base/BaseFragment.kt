@@ -34,7 +34,7 @@ abstract class BaseFragment<DB : ViewDataBinding, VM : BaseViewModel> : Fragment
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        viewModel = getVM()
+            viewModel = getVM()
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
